@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E876AE42-B563-54AF-D735-D9091850339B}") = "Whackarama", "Assembly-CSharp.csproj", "{A492A0F8-6BA3-2DD0-0061-1F12EA1B3E7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A492A0F8-6BA3-2DD0-0061-1F12EA1B3E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A492A0F8-6BA3-2DD0-0061-1F12EA1B3E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A492A0F8-6BA3-2DD0-0061-1F12EA1B3E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A492A0F8-6BA3-2DD0-0061-1F12EA1B3E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
